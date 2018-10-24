@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "week 12 HW",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanps8/Bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanps8/Bamazon/issues"
+  },
+  "homepage": "https://github.com/seanps8/Bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
